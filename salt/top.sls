@@ -1,0 +1,6 @@
+base:
+
+   '*':
+     - apache
+     - ssh
+     - ufw
